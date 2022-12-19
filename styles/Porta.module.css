@@ -1,0 +1,15 @@
+.porta {
+    display: flex;
+    flex-direction: column; /*pois o número ficará em cima e a maçaneta em baixo*/
+    align-items: center;
+    background-color: chocolate;
+    padding: 15px;
+
+    /*temp*/
+    width: 200px;
+    height: 310px;
+}
+
+.numero {
+    font-size: 3rem;
+}
