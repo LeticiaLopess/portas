@@ -1,6 +1,5 @@
 .presente {
     position: relative;
-    width: 200px;
     display: flex;
     flex-direction: column; /*vertical*/
     align-items: center;
