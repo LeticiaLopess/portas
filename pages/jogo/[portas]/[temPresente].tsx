@@ -6,7 +6,7 @@ import Link from "next/link"
 import { useRouter } from "next/router"
 import PortaModel from "../../../model/porta"
 
-export default function jogo() {
+export default function Jogo() {
 
     const router = useRouter()
     const [valido, setValido] = useState(false)
