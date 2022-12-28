@@ -13,6 +13,11 @@
     flex-wrap: wrap;
 }
 
+.portas > h1 {
+    width: 100%;
+    text-align: center;
+}
+
 .botoes {
     display: flex;
     justify-content: center;
