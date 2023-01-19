@@ -8,8 +8,8 @@
 
 .portas {
     display: flex;
-    align-self: stretch;
-    justify-content: stretch; /*espaçado igualmente entre as portas*/
+    align-self: center;
+    justify-content: center;
     flex-wrap: wrap;
 }
 
